@@ -34,8 +34,12 @@ body {
 }
 
 .project {
-     margin-left: 25px;
-     background-color: #cfcfcf;
-     padding: 10px;
+     margin: 20px 0 20px 0;
+     background-color: #42C974;
+     padding: 20px 20px 10px 20px;
      width: 550px;
+}
+
+.jumbotron {
+     background: white; !important
 }
